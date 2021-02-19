@@ -8,11 +8,14 @@ body {
   width: 100vw;
   height: 99vh;
   background-color: red;
+  font-size: 30px;
 }
 
 header {
   height: 100px;
   background-color: royalblue;
+  line-height: 100px;
+  text-align: center;
 }
 
 main {
@@ -26,20 +29,28 @@ main .nav-left {
   height: 769px;
   width: 10%;
   background-color: salmon;
+  line-height: 769px;
+  text-align: center;
 }
 
 main .central {
   height: 769px;
   width: 80%;
+  line-height: 769px;
+  text-align: center;
 }
 
 main .nav-right {
   height: 769px;
   width: 10%;
   background-color: salmon;
+  line-height: 769px;
+  text-align: center;
 }
 
 footer {
   height: 100px;
   background-color: #41e1c6;
+  line-height: 100px;
+  text-align: center;
 }
